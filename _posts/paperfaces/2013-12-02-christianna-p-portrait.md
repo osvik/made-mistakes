@@ -1,15 +1,15 @@
 ---
-layout: work
+layout: media
 title: "The color of gravy"
-description: "PaperFaces portrait of Christianna P. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Christianna P. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-christianna-p-lg.jpg
   thumb: paperfaces-christianna-p-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy]
+tags: [portrait, illustration, paper by 53, sktchy]
 ---
 
-Trading drawings for drawings. PaperFaces portrait of <a href="http://sktchy.com/wkGeKD" target="_blank">Christianna P</a>, inspiration found via Sktchy.
+Trading drawings for drawings. PaperFaces portrait of <a href="http://sktchy.com/wkGeKD">Christianna P</a>, inspiration found via Sktchy.
 
 {% include paperfaces-boilerplate-2.html %}
 

@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Developer slash designer"
-description: "PaperFaces portrait of @aripalo drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @aripalo drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-aripalo-twitter-lg.jpg
   thumb: paperfaces-aripalo-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@aripalo](http://twitter.com/aripalo).

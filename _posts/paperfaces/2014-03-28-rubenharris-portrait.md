@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Cello, is it me you're looking for?"
-description: "PaperFaces portrait of @rubenharris drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @rubenharris drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-rubenharris-twitter-lg.jpg
   thumb: paperfaces-rubenharris-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait commission of [@rubenharris](http://twitter.com/rubenharris).

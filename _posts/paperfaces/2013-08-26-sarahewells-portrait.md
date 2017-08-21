@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Long hair and lips"
-description: "PaperFaces portrait of @SarahEWells drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @SarahEWells drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-sarahewells-twitter-lg.jpg
   thumb: paperfaces-sarahewells-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@SarahEWells](http://twitter.com/sarahewells).

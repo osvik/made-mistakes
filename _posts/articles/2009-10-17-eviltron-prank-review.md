@@ -1,13 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Eviltron and a Scary Movie Makes for a Great Prank"
-description: "The Eviltron device, when setup properly, can land some convincing scares."
+excerpt: "The Eviltron device, when setup properly, can land some convincing scares."
 modified: 2013-04-26
 image: 
-  small: mademistakes-340x100.jpg
   thumb: eviltron-thumb.jpg
 category: articles
-tags: [Eviltron, prank, horror, review, tech geek]
+tags: [eviltron, prank, horror, review, tech geek]
 ---
 
 So we went and saw *Paranormal Activity* last night. If you haven't heard it's basically the *Blair Witch Project* shot in a haunted house. I couldn't have planned it better because earlier in the day my [Eviltron from Think Geek](http://www.thinkgeek.com/gadgets/electronic/c427/) showed up which gave me time to plant it in our bedroom.

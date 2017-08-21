@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Hat tip in gray"
-description: "PaperFaces portrait of @nett00n drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @nett00n drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-nett00n-twitter-lg.jpg
   thumb: paperfaces-nett00n-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, black and white]
+tags: [portrait, illustration, paper by 53, black and white]
 ---
 
 PaperFaces portrait of [@nett00n](http://twitter.com/Tnett00n).

@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Jumping really high in the blue sky"
-description: "PaperFaces portrait of @Shinfu drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @Shinfu drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-shinfu-twitter-lg.jpg
   thumb: paperfaces-shinfu-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of project donator [@Shinfu](http://twitter.com/Shinfu) jumping really high in a blue sky landscape.

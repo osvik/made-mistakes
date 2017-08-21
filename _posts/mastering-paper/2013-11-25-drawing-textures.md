@@ -1,23 +1,22 @@
 ---
-layout: post
-title: "Mastering Paper by 53: Drawing Textures"
-description: "Learn techniques for drawing bricks, wood, and rock textures using the iPad app Paper by 53."
+layout: article
+title: "Mastering Paper by FiftyThree: Drawing Textures"
+excerpt: "Techniques for drawing bricks, wood, and rock textures using the iPad app Paper by FiftyThree."
 modified: 2014-01-14
 image: 
   feature: paper-53-texture-guide-feature.jpg
+  teaser: paper-53-texture-guide-teaser.jpg
   thumb: paper-53-texture-guide-thumb.jpg
 category: mastering-paper
-tags: [Paper by 53, tutorial, drawing, painting, iPad, texture, wood]
-series: mastering-paper
+tags: [paper by 53, tutorial, drawing, painting, texture, wood, ipad]
 comments: true
 ---
 
 If you've been following along you now know all my Paper techniques[^techniques] and tricks for painting basic landscapes. Trees, grass, skies, clouds, water, and waves --- all the parts for building a solid landscape foundation. This next part of my Mastering Paper guide will cover texture techniques for creating bricks, wood grain, concrete, and rocks.
 
-[^techniques]: I like to draw loose and quick, and avoid anything that takes the fun and energy from the experience. My techniques focus more on getting the best results in the least amount of time, because who really wants to spend more than an hour on a drawing?
+{% include toc.html %}
 
-* Table of Contents
-{:toc}
+[^techniques]: I like to draw loose and quick, and avoid anything that takes the fun and energy from the experience. My techniques focus more on getting the best results in the least amount of time, because who really wants to spend more than an hour on a drawing?
 
 ## Drawing Bricks
 
@@ -220,7 +219,7 @@ Depending on the color of this *harmonizing layer*, the highlights and shadows f
 
 Using all of these techniques I was able to create a variety of backdrops for the portraits in my [PaperFaces Project]({{ site.url }}{% post_url /articles/2012-08-31-paperfaces-ipad-portrait-project %}). Below are a few finished pieces to show what is possible just by varying the color and composition.
 
-<ul class="recent-grid">
+<ul class="th-grid">
   <li><a href="{{ site.url }}{% post_url /paperfaces/2013-10-16-rob-jayne-portrait %}"><img src="{{ site.url }}/images/paperfaces-rob-jayne-150.jpg" alt="thumb" /></a></li>
   <li><a href="{{ site.url }}{% post_url /paperfaces/2013-02-06-padulantonio-portrait %}"><img src="{{ site.url }}/images/paperfaces-padulantonio-twitter-150.jpg" alt="thumb" /></a></li>
   <li><a href="{{ site.url }}{% post_url /paperfaces/2013-06-17-idpro-portrait %}"><img src="{{ site.url }}/images/paperfaces-idpro-twitter-150.jpg" alt="thumb" /></a></li>
@@ -239,7 +238,3 @@ Using all of these techniques I was able to create a variety of backdrops for th
 {:.no_toc}
 
 In the next part I'll share all of my skin tone cheat sheets that serve as a starting point for my PaperFaces portraits. Learn how I use shape, color, and the watercolor brush to enhance the realism of a portrait with little effort.
-
----
-
-{% include support.html %}

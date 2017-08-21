@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Suit in a landscape"
-description: "PaperFaces portrait of @ryandawidjan drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @ryandawidjan drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-ryandawidjan-twitter-lg.jpg
   thumb: paperfaces-ryandawidjan-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of project donator [@ryandawidjan](http://twitter.com/ryandawidjan).

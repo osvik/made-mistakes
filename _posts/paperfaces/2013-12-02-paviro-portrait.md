@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Drawing in shadows"
-description: "PaperFaces portrait of @paviro_ drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @paviro_ drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-paviro-twitter-lg.jpg
   thumb: paperfaces-paviro-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Blend]
+tags: [portrait, illustration, paper by 53, blend]
 ---
 
 PaperFaces portrait of <a href="http://twitter.com/paviro_">@paviro_</a>.

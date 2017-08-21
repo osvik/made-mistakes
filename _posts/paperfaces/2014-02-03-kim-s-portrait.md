@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Blood bath"
-description: "PaperFaces portrait of Kim S. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Kim S. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-kim-s-lg.jpg
   thumb: paperfaces-kim-s-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy]
+tags: [portrait, illustration, paper by 53, sktchy]
 ---
 
 PaperFaces portrait of [Kim S.](http://sktchy.com/czir6c) inspired by Sktchy.

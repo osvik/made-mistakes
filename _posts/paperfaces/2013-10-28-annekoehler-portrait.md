@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Wood grain practices"
-description: "PaperFaces portrait of @Annekoehler drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @Annekoehler drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-annekoehler-twitter-lg.jpg
   thumb: paperfaces-annekoehler-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of <a href="http://twitter.com/Annekoehler">@Annekoehler</a>.

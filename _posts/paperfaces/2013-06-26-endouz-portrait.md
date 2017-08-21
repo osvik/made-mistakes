@@ -1,15 +1,15 @@
 ---
-layout: work
+layout: media
 title: "Flickering lights of rain"
-description: "PaperFaces portrait of @endouz drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @endouz drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-endouz-twitter-lg.jpg
   thumb: paperfaces-endouz-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, bokeh]
+tags: [portrait, illustration, paper by 53, bokeh]
 ---
 
-PaperFaces portrait of [@endouz](http://twitter.com/endouz). Using white to paint lights that could be rain drop refractions... or not.
+PaperFaces portrait of [@endouz](http://twitter.com/endouz). Using white to paint lights that could be rain drop refractions… or not.
 
 {% include paperfaces-boilerplate-2.html %}
 

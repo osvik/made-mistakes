@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Plant something"
-description: "PaperFaces portrait of @thatmiddleway drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @thatmiddleway drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-thatmiddleway-twitter-lg.jpg
   thumb: paperfaces-thatmiddleway-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53, beard]
 ---
 
 PaperFaces portrait of [@thatmiddleway](http://twitter.com/thatmiddleway).

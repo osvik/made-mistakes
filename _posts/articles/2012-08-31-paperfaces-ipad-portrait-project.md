@@ -1,30 +1,30 @@
 ---
-layout: post
+layout: article
 title: "iPad Portraits with Paper by FiftyThree"
-short-title: "PaperFaces Project"
-description: "An experiment in humanizing the web &#8212; designer Michael Rose draws a portrait a day using an iPad and Paper by 53."
-modified: 2014-01-22
+excerpt: "An experiment in humanizing the web — drawing a portrait everyday day using an iPad and the Paper by FiftyThree app."
+modified: 2014-09-03T07:50:19-04:00
 image: 
   feature: paperfaces-project-feature.jpg
-  homepage: paperfaces-project-500x500.jpg
+  teaser: paperfaces-project-teaser.jpg
   thumb: paperfaces-project-250x250.jpg
 category: articles
-tags: [Paper by 53, iPad, drawing, illustration]
+tags: [paper by 53, ipad, drawing, illustration]
 comments: true
 ---
 
-PaperFaces is an iPad drawing project by time traveling designer and illustrator Michael Rose --- that's me! It began in August 2012, when I started drawing portraits on my iPad using the [Paper by 53 app](http://www.fiftythree.com/paper). Each day when a drawing is completed, I post the image to [Twitter](http://twitter.com/mmistakes), [Instagram](http://instagram.com/mmistakes), [Tumblr](http://mademistakes.tumblr.com), and mademistakes.com. The project will continue <s>the next year</s> until I burn out on faceless faces.
+PaperFaces was an iPad drawing project by time traveling designer and illustrator Michael Rose --- that's me! It began in August 2012, when I started drawing portraits on my iPad using the [Paper by FiftyThree app](http://www.fiftythree.com/paper) and [ended two years later]({{ site.url }}{% post_url /articles/2014-08-29-paperfaces-retrospective %}). 
 
-* Table of Contents 
-{:toc}
+{% include toc.html %}
 
 ## Latest Portraits
 
-I make every effort to update the gallery weekly with the freshest of fresh along with in process sketches for each portrait. If you absolutely have to see my latest creation the second I finish it, a follow on Twitter would do your body good.
+The last batch of PaperFaces drawings along with in process sketches for each. They can also be found scattered across social media if you dig back far enough: [Twitter](http://twitter.com/mmistakes), [Instagram](http://instagram.com/mmistakes), and [Tumblr](http://mademistakes.tumblr.com).
 
-<ul class="recent-grid">
-{% for post in site.categories.paperfaces limit:12 %}
-  <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.thumb }}" alt="" /></a></li>
+<ul class="th-grid">
+{% for post in site.categories.paperfaces limit:15 %}
+    <li>
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.thumb }}" alt=""></a>
+    </li>
 {% endfor %}
 </ul>
 
@@ -34,9 +34,7 @@ I make every effort to update the gallery weekly with the freshest of fresh alon
 
 ### Will You Draw Me?
 
-Unfortunately I am no longer taking volunteers for the project. If you'd like to commission me to illustrate your Twitter avatar, recreate a photograph in my PaperFaces™ style, draw your pet dinosaur, or whatever, follow the link below.
-
-<div markdown="0"><a href="{{ site.url }}/portraits/" class="btn" style="margin-bottom:0;">Order a Custom PaperFaces Portrait</a></div>
+Unfortunately I am no longer taking volunteers for the project. <s>If you'd like to commission me to illustrate your Twitter avatar, recreate a photograph in my PaperFaces™ style, draw your pet dinosaur, or whatever, follow the link below.</s> I'm currently taking a vacation from drawing portraits as well. Sorry :-(
 
 ### What is PaperFaces?
 
@@ -50,16 +48,18 @@ Due to the positive comments that I received, I decided to put a call out for mo
 
 A few hours later, while grocery shopping with my wife, my iPhone started blowing up with retweet and @reply notifications. By the end of the day I had amassed around 300 volunteers and figured that turning it into a formal 365 day project might be fun.
 
-When the count hit 700, I revised my initial goal of 365 to 730 (that's two a day for a year), due to the increased demand and not wanting to let anyone down. At around the same time, I started getting inquiries about the project, and whether I was accepting donations. At the suggestion of friends and some newfound supporters, I decided to put up a page to better explain the project and a PayPal button on the site for those who really really *really* wanted me to draw their portrait. [Request a PaperFaces drawing](#draw-me-draw-me) of your portrait now.
+When the count hit 700, I revised my initial goal of 365 to 730 (that's two a day for a year), due to the increased demand and not wanting to let anyone down. At around the same time, I started getting inquiries about the project, and whether I was accepting donations. At the suggestion of friends and some newfound supporters, I published this page to better explain the project and added PayPal buttons on the site for those who wanted to motivate me to keep the project going.
 
 ### Why the Blank Faces?
 
-When I began the project I attempted to draw each face as detailed and accurately as possible. Even though I'm classically trained in illustration and the fine arts, photo realism isn't really "my bag." Part of what attracted me to Paper by 53 is its small toolset, lack of zoom, and focused color palettes. Trying to interpret each portrait using these constraints helped me to stumble across the whole "blank face" look and ultimately grow as an artist.
+When I began the project I attempted to draw each face as detailed and accurately as possible. Even though I'm classically trained in illustration and the fine arts, photo realism isn't really "my bag." Part of what attracted me to Paper by 53 was its small tool set, lack of zoom, and focused color palettes. Trying to interpret each portrait using these constraints helped me to stumble across the whole "blank face" look and grow as an artist.
 
 <figure class="large">
   <img src="{{ site.url }}/images/paperfaces-rosebud-twins-l.jpg" alt="PaperFaces iPad portrait of the Rosebud twins">
   <figcaption>PaperFaces iPad portrait of my two twin girls</figcaption>
 </figure>
+
+After drawing over 600 portraits with Paper my skills have matured and I've begun drawing the entire face. It has been a fun personal challenge to capture as much detail in as little time possible.
 
 ### What's Your Process Like?
 
@@ -77,9 +77,9 @@ And yes, I use a stylus. For the first 50 or so portraits I drew exclusively wit
 
 ### When are You Going to Stop?
 
-At the moment, there is a *waiting list* of about 1,300. Now I know what you're thinking, "this dude is never going to draw all those." Well, you're probably right. Though I am making progress and have drawn just shy of {{ site.categories.paperfaces | size }} finished illustrations.
+At the moment, there is a *waiting list* of over 2,000. Now I know what you're thinking, "this dude is never going to draw all those." Well, you're probably right. Though I am making progress and have drawn just shy of {{ site.categories.paperfaces | size }} finished illustrations.
 
-Working my day job as a designer, then spending the rest of the evening with my wife and twin baby girls doesn't leave much free time. Since this project is a fun diversion for myself, I allot a few hours each night to draw a portrait or two. On average, most portraits take me an hour, while others might take a few. It really depends on the complexity of the original photograph and how much detail I'm trying to capture.
+Working my day job as a designer, then spending the rest of the evening with my wife and twin baby girls doesn't leave much free time. Since this project is a fun diversion for myself, I allot a few hours each night to draw a portrait or two. On average most portraits take me 1--2 hours to complete. It really depends on the complexity of the original photograph and how much detail I'm trying to capture.
 
 ## Usage and Copyright
 
@@ -93,39 +93,38 @@ I use the term "tutorial" loosely. What you'll find here are glorified slide sho
 {: .notice .warning}
 
 <figure class="large">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/y1OG2gLk6Jg?list=PLaLqP2ipMLc6UugVLyTwWTiFtmmZzj7ao" frameborder="0"> </iframe>
-  <figcaption>View more of my Paper by FiftyThree video tutorials on <a href="https://www.youtube.com/user/anotherjpeg" title="Michael Rose's YouTube Channel" target="_blank">YouTube</a> or <a href="{{ site.url }}/mastering-paper/">read how I use Paper</a>.</figcaption>
+  <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLaLqP2ipMLc6UugVLyTwWTiFtmmZzj7ao" frameborder="0"> </iframe>
+  <figcaption>View more of my Paper by FiftyThree video tutorials on <a href="https://www.youtube.com/user/anotherjpeg" title="Michael Rose's YouTube Channel">YouTube</a> or <a href="{{ site.url }}/mastering-paper/">read how I use Paper</a>.</figcaption>
 </figure>
 
 ## Homages
 
 I've been completely humbled by all the support and attention coming my way since I started this project. Drawing someone's portrait and having them thank you by returning the favor is all kinds of amazing. I'm featuring those drawings here, along with any that follow the "PaperFaces style." If you want your drawing to be included drop me a line at <michael@mademistakes.com>.
 
-<ul id="fanart-gallery" class="recent-grid">
+<ul id="fanart-gallery" class="th-grid">
   <li><a href="{{ site.url }}/images/homage-pepfre-mmistakes-lg.jpg"><img src="{{ site.url }}/images/homage-pepfre-mmistakes-150.jpg" alt="PaperFaces portrait of @mmistakes drawn by @Pepfre"></a></li>
   <li><a href="{{ site.url }}/images/homage-missshrestha-rosebuds-lg.jpg"><img src="{{ site.url }}/images/homage-missshrestha-rosebuds-150.jpg" alt="PaperFaces portrait of the twins drawn by @missshrestha on Instagram"></a></li>
   <li><a href="{{ site.url }}/images/homage-morgantj-mmistakes-lg.jpg"><img src="{{ site.url }}/images/homage-morgantj-mmistakes-150.jpg" alt="PaperFaces portrait of @mmistakes drawn by @morgantj"></a></li>
   <li><a href="{{ site.url }}/images/homage-tortadecereja-mmistakes-lg.jpg"><img src="{{ site.url }}/images/homage-tortadecereja-mmistakes-150.jpg" alt="PaperFaces portrait of @mmistakes drawn by @tortadecereja"></a></li>
-  <li><a href="http://instagram.com/p/W8WaxfAYmG/" target="_blank"><img src="{{ site.url }}/images/homage-lindseyvail-art-1-150.jpg" alt="PaperFaces homage drawn by @lindseyvail_art on Instagram"></a></li>
-  <li><a href="http://instagram.com/p/W5r5EwgYge/" target="_blank"><img src="{{ site.url }}/images/homage-lindseyvail-art-2-150.jpg" alt="PaperFaces homage drawn by @lindseyvail_art on Instagram"></a></li>
-  <li><a href="http://instagram.com/p/VQ4-6HklEU/" target="_blank"><img src="{{ site.url }}/images/homage-m0im0i-150.jpg" alt="PaperFaces homage drawn by @m0im0i on Instagram"></a></li>
-  <li><a href="https://twitter.com/LovisasLife/status/314699959775662081" target="_blank"><img src="{{ site.url }}/images/homage-lovisaslife-150.jpg" alt="PaperFaces homage drawn by @LovisasLife on Twitter"></a></li>
-  <li><a href="http://instagram.com/p/QTn7jWJkHj/" target="_blank"><img src="{{ site.url }}/images/homage-ramesstudios-150.jpg" alt="PaperFaces homage drawn by @ramesstudios on Instagram"></a></li>
-  <li><a href="http://instagram.com/p/cHexhprrxf/" target="_blank"><img src="{{ site.url }}/images/homage-konstnaren-150.jpg" alt="PaperFaces homage drawn by @konstnaren on Instagram"></a></li>
-  <li><a href="http://instagram.com/p/aVh8QOJ-uv/" target="_blank"><img src="{{ site.url }}/images/homage-grumz-150.jpg" alt="PaperFaces homage drawn by @grumz on Instagram"></a></li>
-  <li><a href="http://eichan68.tumblr.com" target="_blank"><img src="{{ site.url }}/images/homage-eichan68-150.jpg" alt="PaperFaces homage drawn by @eichan68 on Instagram"></a></li>
+  <li><a href="http://instagram.com/p/W8WaxfAYmG/"><img src="{{ site.url }}/images/homage-lindseyvail-art-1-150.jpg" alt="PaperFaces homage drawn by @lindseyvail_art on Instagram"></a></li>
+  <li><a href="http://instagram.com/p/W5r5EwgYge/"><img src="{{ site.url }}/images/homage-lindseyvail-art-2-150.jpg" alt="PaperFaces homage drawn by @lindseyvail_art on Instagram"></a></li>
+  <li><a href="http://instagram.com/p/VQ4-6HklEU/"><img src="{{ site.url }}/images/homage-m0im0i-150.jpg" alt="PaperFaces homage drawn by @m0im0i on Instagram"></a></li>
+  <li><a href="https://twitter.com/LovisasLife/status/314699959775662081"><img src="{{ site.url }}/images/homage-lovisaslife-150.jpg" alt="PaperFaces homage drawn by @LovisasLife on Twitter"></a></li>
+  <li><a href="http://instagram.com/p/QTn7jWJkHj/"><img src="{{ site.url }}/images/homage-ramesstudios-150.jpg" alt="PaperFaces homage drawn by @ramesstudios on Instagram"></a></li>
+  <li><a href="http://instagram.com/p/cHexhprrxf/"><img src="{{ site.url }}/images/homage-konstnaren-150.jpg" alt="PaperFaces homage drawn by @konstnaren on Instagram"></a></li>
+  <li><a href="http://instagram.com/p/aVh8QOJ-uv/"><img src="{{ site.url }}/images/homage-grumz-150.jpg" alt="PaperFaces homage drawn by @grumz on Instagram"></a></li>
+  <li><a href="http://eichan68.tumblr.com"><img src="{{ site.url }}/images/homage-eichan68-150.jpg" alt="PaperFaces homage drawn by @eichan68 on Instagram"></a></li>
 </ul>
 
 ## Featured On
 
 Just sharing the love with some links back to articles and galleries that have featured my PaperFaces artwork and story.
     
-* [This Summer We Learned About PaperFaces...](http://madewithpaper.fiftythree.com/post/36767754768/this-summer-we-learned-about-paper-faces-by)
+* [This Summer We Learned About PaperFaces…](http://madewithpaper.fiftythree.com/post/36767754768/this-summer-we-learned-about-paper-faces-by)
 * [53 Outstanding Works of Art Made with Paper by FiftyThree](http://designshack.net/articles/inspiration/53-outstanding-works-of-art-made-with-paper-by-fiftythree/)
 * [The Story of #PaperFaces](http://anewatlantis.com/2013/01/the-story-of-paperfaces/)
 * [15 Beautiful Faces Made with the Paper iPad app](http://www.obeymagazine.nl/graphic-design/illustraties/15-gezichten-paper-ipad-app/)
+* [iPad artist: Michael Rose, creator of the PaperFaces project](http://kevinbradberry.net/2014/08/27/ipad-artist-michael-rose/)
 
 <i class="fa fa-info-circle"></i> **PS:** Since starting PaperFaces I've received a few inquiries on my illustration techniques --- so I wrote a guide called [Mastering Paper by 53]({{ site.url }}/mastering-paper/).
-{: .notice .warning}
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+{: .notice}

@@ -1,22 +1,22 @@
 ---
-layout: post
+layout: article
 title: "Potential Pogo Connect Sensitivity Fix"
-description: "How to adjust the pressure sensitivity of a Pogo Connect's tip with firmware 1.1.0+."
+excerpt: "How to adjust the pressure sensitivity of a Pogo Connect's tip with firmware 1.1.0+."
 category: articles
 modified: 2014-01-14
 image:
+  teaser: pogo-connect-review-teaser.jpg
   thumb: pogo-connect-app-thumb.jpg
-tags: [Pogo Connect, Paper by 53, stylus, iPad]
+tags: [pogo connect, paper by 53, stylus, ipad]
 comments: true
 ---
 
 About a month ago I received a replacement [Pogo Connect Smart Pen]({{ site.url }}/articles/pogo-connect-smart-pen/) due to a defect that caused it to stop working. Using this replacement for a few days it was clear to me that something was different about this newer model.
 
-I use Paper by FiftyThree almost exclusively for drawing with the occasional Procreate experiment. When using either app I noticed that the sensitivity of the Pogo's tip seemed off. To get the full range of stroke sizes I now had to press extremely hard to register a wide stroke, which really started to screw with how I draw.
+I use Paper by FiftyThree almost exclusively for drawing with the occasional Procreate experiment. When using either app I noticed that the sensitivity of the Pogo's tip seemed off. To get the full range of stroke sizes I now had to press extremely hard to register a wide stroke (see screenshot below), which really started to screw with how I draw.
 
 <figure>
-	<img src="{{ site.url }}/images/pogo-connect-sensitivity-lines.jpg" alt="Pogo Connect line comparison">
-	<figcaption>Lines to the right are from a calibrated Pogo Connect.</figcaption>
+	<img src="{{ site.url }}/images/pogo-connect-sensitivity-lines.jpg" alt="Calibrated Pogo Connect line comparison">
 </figure>
 
 Isolating the cause is hard because so many factors had changed around the same time.
@@ -54,7 +54,7 @@ After making these changes you can doodle around in the space below to verify th
 3. Reconnect the stylus to Paper. You may have to force quit[^force-quit] the app if it doesn't connect.
 4. After establishing a connection reopen the Pogo Connect app, wait for it to connect to the stylus, and then tap the **Configuration** tab again.
 5. Check that the **Pressure Amount** slider is set properly and make a few test strokes in the space below to verify it is receiving input from the tip.
-6. Switch back to Paper and you're good to go... for now.
+6. Switch back to Paper and you're good to go… for now.
 
 [^force-quit]: To force quit an app press the home button twice in rapid succession. Doing so will bring up a screen showing your recently used apps. Swipe left or right to find the app you want to quit and then swipe it up to remove it from view.
 

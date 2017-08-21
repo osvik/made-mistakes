@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Orange hat"
-description: "PaperFaces portrait of @bi11jon drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @bi11jon drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-bi11jon-twitter-lg.jpg
   thumb: paperfaces-bi11jon-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@bi11jon](http://twitter.com/bi11jon).

@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Fancy shear and flowers"
-description: "PaperFaces portrait of Olesya L. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Olesya L. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-olesya-l-lg.jpg
   thumb: paperfaces-olesya-l-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy]
+tags: [portrait, illustration, paper by 53, sktchy]
 ---
 
 PaperFaces portrait of [Olesya L.](http://sktchy.com/REiCy) inspired by Sktchy.

@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "On a boat!"
-description: "PaperFaces portrait of @eliglazier drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @eliglazier drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-eliglazier-twitter-lg.jpg
   thumb: paperfaces-eliglazier-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@eliglazier](http://twitter.com/eliglazier).

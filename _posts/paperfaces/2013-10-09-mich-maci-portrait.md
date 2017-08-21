@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Pink tips"
-description: "PaperFaces portrait of @mich-maci drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @mich-maci drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-mich-maci-twitter-lg.jpg
   thumb: paperfaces-mich-maci-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces avatar portrait of <a href="http://twitter.com/mich-maci">@mich-maci</a>.

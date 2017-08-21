@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Old timey brothers"
-description: "PaperFaces portrait commission drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait commission drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-adammorgan100-twitter-lg.jpg
   thumb: paperfaces-adammorgan100-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, black and white]
+tags: [portrait, illustration, paper by 53, black and white]
 ---
 
 PaperFaces portrait commission for [@adammorgan100](http://twitter.com/adammorgan100).

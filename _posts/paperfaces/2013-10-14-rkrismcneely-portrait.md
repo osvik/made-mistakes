@@ -1,12 +1,13 @@
 ---
-layout: work
+layout: media
 title: "Drawing geometry"
-description: "PaperFaces portrait of @rkrismcneely drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @rkrismcneely drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-rkrismcneely-twitter-lg.jpg
+  teaser: paperfaces-rkrismcneely-twitter-teaser.jpg
   thumb: paperfaces-rkrismcneely-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, 8bit]
+tags: [portrait, illustration, paper by 53, 8bit]
 ---
 
 PaperFaces portrait of <a href="http://twitter.com/rkrismcneely">@rkrismcneely</a>.

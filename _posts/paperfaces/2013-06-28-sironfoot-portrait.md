@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Some sort of furry"
-description: "PaperFaces of @sironfoot's avatar drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces of @sironfoot's avatar drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-sironfoot-twitter-lg.jpg
   thumb: paperfaces-sironfoot-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@sironfoot's](http://twitter.com/sironfoot) avatar. I think this is a hamster, but the lack of ears has me unsure. Drawing all the fuzzy fur sure was fun.

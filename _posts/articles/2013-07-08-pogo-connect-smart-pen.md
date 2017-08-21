@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: article
 title: "A Pogo Connect Smart Pen Makes Paper by 53 Better"
-description: "Perfect for avid Paper by 53 creators looking for enhanced functionality normal capacitive stylus can't offer."
+excerpt: "Perfect for avid Paper by 53 creators looking for enhanced functionality normal capacitive stylus can't offer."
 modified: 2013-11-06
 image: 
   feature: pogo-connect-review-feature.jpg
-  thumb: pogo-connect-review-thumb.jpg
+  teaser: pogo-connect-review-teaser.jpg
 category: articles
-tags: [Pogo Connect, Paper by 53, stylus, illustration, review, iPad]
+tags: [pogo connect, paper by 53, stylus, review, ipad]
 comments: true
 ---
 
@@ -15,13 +15,15 @@ I've been lusting over the promise of pressure sensitive drawing on an iPad ever
 
 [^pogo-compatibility]: Since publishing this review, Apple released the iPad Mini and iPad Air --- both have some compatibility issues with a Pogo Connect Smart Pen. There's something about these new screens that cause the Pogo to not function properly. In the case of the iPad Air it doesn't work at all. The iPad Mini has better support but a few of the new tips don't work. For the full story check out [Ten One Design's website](http://www.tenonedesign.com/connect).
 
+{% include toc.html %}
+
 For my birthday [my wife](http://2littlerosebuds.com) picked me up one and I started the process of learning all its nuances. I've gotten fairly adept at using a [LunaTik Alloy Touch Pen]( http://www.amazon.com/gp/product/B00821TR7G/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00821TR7G&linkCode=as2&tag=mademist-20) by drawing with it every day for the last 9 months, but the tip is starting to show signs of tearing --- perfect time to try something new.
 
 ## Pogo Connect Smart Pen vs. Normal Styluses
 
 <figure>
 	<img src="{{ site.url }}/images/stylus-rubber-tips-comparison.jpg" alt="Stylus rubber tips comparison">
-	<figcaption>As you can see the Pogo Connect Smart Pen's tip looks like most other capacitive stylus pens out there. It feels like and drags on the iPad's screen the same too.</figcaption>
+	<figcaption>If you like how rubber nibbed tips feel when drawing you'll be at home with the Pogo Connect.</figcaption>
 </figure>
 
 So how does the Pogo Connect's feel compare to other styluses? In your hand it doesn't quite have the same solidness as the LunaTik or an [AluPen]( http://www.amazon.com/gp/product/B0042U9AT6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0042U9AT6&linkCode=as2&tag=mademist-20). By no means is it cheap feeling, but it doesn't have the heft as those other two pens. The tip isn't any more accurate than your average rubber nub stylus, so if you're looking for precision look at the [Adonit Jot Touch 4](http://www.amazon.com/gp/product/B00AO1L1RG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00AO1L1RG&linkCode=as2&tag=mademist-20) line[^adonit-touch] instead.
@@ -90,7 +92,7 @@ But if you rest your palm on the screen while you draw things break down quickly
 
 If you're a Paper addict and mostly use watercolor and pencil I think the high price of a Pogo Connect is justified. If you're predominantly an inker then it's probably not worth it. I find controlling the fountain pen to be much harder when using a Pogo Connect because it is really sensitive to pressure. This makes drawing smooth lines hard unless you have a steady hand and don't vary the pressure as you draw.
 
-It's worth noting that there appears to be a major design flaw with the internals of the pen (see below). From constant pressure being applied to a soldered circuit board behind the tip, it eventually breaks and ceases to work properly. I don't know anyone in the Paper community who has escaped this. But since it's the only stylus Paper supports with pressure sensitivity you'll have to decide how important that is to you. Buyer beware...
+It's worth noting that there appears to be a major design flaw with the internals of the pen (see below). From constant pressure being applied to a soldered circuit board behind the tip, it eventually breaks and ceases to work properly. I don't know anyone in the Paper community who has escaped this. But since it's the only stylus Paper supports with pressure sensitivity you'll have to decide how important that is to you. Buyer beware…
 
 ## What's Wrong with the Pogo Connect
 
@@ -98,7 +100,7 @@ About those bugs I mentioned earlier. Not sure if they're hardware or software r
 
 <figure>
 	<img src="{{ site.url }}/images/pogo-connect-paper-53-disconnected.jpg" alt="Pogo Connected disconnected screenshot">
-	<figcaption>Disconnected! Better get used to this screen...</figcaption>
+	<figcaption>Disconnected! Better get used to this screen…</figcaption>
 </figure>
 
 ### Lock Screen Annoyance
@@ -120,7 +122,7 @@ Removed the rubber tip to find this mess. Like many others, the metal contact th
 
 <figure>
 	<img src="{{ site.url }}/images/pogo-connect-broken-circuit.jpg" alt="Pogo Connect broken circuit connection and tip">
-	<figcaption>I don't think this metal contact is suppose to break off so easily...</figcaption>
+	<figcaption>I don't think this metal contact is suppose to break off so easily…</figcaption>
 </figure>
 
 I have an email out to Ten One Design to see what can be done. I've heard they respond quickly with free replacements, which could indicate they're aware of a major design flaw and trying to do right by it. I just don't know if I can continue to recommend the product if it's prone to breaking after a few months. I'll let you know things go...
@@ -140,4 +142,4 @@ Feels like Groundhog Day all over again. Sadly my replacement Pogo didn't fair t
 
 If it wasn't for Paper I probably would have dumped the Pogo and moved to the Adonit Jot Touch and Procreate full time. But there's something magical about Paper that keeps pulling me back...
 
-{% include support.html %}
+{% include affiliate-disclosure.html %}

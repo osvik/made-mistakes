@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Hold up your iPhone in honor of iOS 7"
-description: "PaperFaces portrait of @agebhard drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @agebhard drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-agebhard-twitter-lg.jpg
   thumb: paperfaces-agebhard-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53, beard]
 ---
 
 PaperFaces portrait of <a href="http://twitter.com/agebhard">@agebhard</a>.

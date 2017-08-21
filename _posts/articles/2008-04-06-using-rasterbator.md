@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: article
 title: "How to Use the Rasterbator to Print out a Wall Sized Owl"
-description: "A quick tutorial and time lapse video of how to assemble a wall sized poster using The Rasterbator."
+excerpt: "A quick tutorial and time lapse video of how to assemble a wall sized poster using The Rasterbator."
 category: articles
 image: 
   feature: owl-rasterbator-feature.jpg
-  small: owl-rasterbator-340x100.jpg
+  teaser: owl-rasterbator-teaser.jpg
   thumb: rasterbator-thumb.jpg
 tags: [poster, rasterbator, print, time lapse, tech geek]
 comments: true
@@ -15,7 +15,7 @@ A few weekends ago I decided to cover one of the walls in the office with a larg
 
 ## The Process of Rasterbating
 
-Took some quick measurements of the wall's dimensions and uploaded the image to the [Rasterbator](http://arje.net/rasterbator"). Got things cropped how I liked and outputted the 120 page <abbr title="portable document format">PDF</abbr> file. The next 3 hours I spent trimming the white borders off of each page since my printer doesn't print to the edge. I think next time I do one of these I'm going to leave the borders... cutting these pages consistently was pretty hard. I tried using a trimmer with a rotary blade but the pages slide some regardless of the clamp thing. Oh well.
+Took some quick measurements of the wall's dimensions and uploaded the image to the [Rasterbator](http://arje.net/rasterbator"). Got things cropped how I liked and outputted the 120 page <abbr title="portable document format">PDF</abbr> file. The next 3 hours I spent trimming the white borders off of each page since my printer doesn't print to the edge. I think next time I do one of these I'm going to leave the borders… cutting these pages consistently was pretty hard. I tried using a trimmer with a rotary blade but the pages slide some regardless of the clamp thing. Oh well.
 
 ## Time Lapse Video
 

@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Sitting in grass"
-description: "PaperFaces portrait of @ericdfields drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @ericdfields drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-ericdfields-twitter-lg.jpg
   thumb: paperfaces-ericdfields-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, grass]
+tags: [portrait, illustration, paper by 53, grass]
 ---
 
 PaperFaces portrait of [@ericdfields](http://twitter.com/ericdfields).

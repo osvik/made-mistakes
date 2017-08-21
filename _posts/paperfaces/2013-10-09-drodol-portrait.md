@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Halfsies"
-description: "PaperFaces portrait of @drodol drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @drodol drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-drodol-twitter-lg.jpg
   thumb: paperfaces-drodol-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, black and white]
+tags: [portrait, illustration, paper by 53, black and white, beard]
 ---
 
 PaperFaces avatar portrait of <a href="http://twitter.com/Drodol">@Drodol</a>.

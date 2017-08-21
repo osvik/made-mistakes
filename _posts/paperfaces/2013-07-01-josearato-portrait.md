@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "No eyes, 95% face"
-description: "PaperFaces portrait of @josearato drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @josearato drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-josearato-twitter-lg.jpg
   thumb: paperfaces-josearato-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53, beard]
 ---
 
 PaperFaces portrait of project donator [@josearato](http://twitter.com/josearato). Why did I almost draw the entire face this team --- because well, I had to leave something unfinished.

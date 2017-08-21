@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Getting grabby at those heart shaped glasses"
-description: "PaperFaces portrait of @KingSpaceLaser drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @KingSpaceLaser drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-kingspacelaser-twitter-lg.jpg
   thumb: paperfaces-kingspacelaser-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@KingSpaceLaser](http://twitter.com/KingSpaceLaser).

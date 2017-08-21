@@ -1,15 +1,15 @@
 ---
-layout: work
+layout: media
 title: "Rated blue for bright"
-description: "PaperFaces portrait of Wendy Rose drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Wendy Rose drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-wendy-rose-sktchy-lg.jpg
   thumb: paperfaces-wendy-rose-sktchy-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy]
+tags: [portrait, illustration, paper by 53, sktchy]
 ---
 
-PaperFaces portrait of <a href="http://sktchy.com/nlpXWH" target="_blank">Wendy Rose</a>, inspiration found via Sktchy.
+PaperFaces portrait of <a href="http://sktchy.com/nlpXWH">Wendy Rose</a>, inspiration found via Sktchy.
 
 {% include paperfaces-boilerplate-2.html %}
 

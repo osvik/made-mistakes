@@ -1,22 +1,27 @@
 ---
-layout: post
+layout: article
 title: "Minimal Mistakes, a Jekyll Theme"
 headline: "Minimal Mistakes Theme"
 subheadline: "Built for Jekyll"
-description: "A responsive Jekyll theme with a minimal design for text heavy sites by designer Michael Rose."
-modified: 2014-02-28
+excerpt: "A responsive Jekyll theme with a minimal design for text heavy sites by designer Michael Rose."
+modified: 2014-10-31T09:14:21-04:00
 image: 
   feature: minimal-mistakes-theme-feature.jpg
-  homepage: minimal-mistakes-500x500.png
+  teaser: minimal-mistakes-theme-teaser.jpg
   thumb: minimal-mistakes-250x250.png
 category: articles
-tags: [Jekyll, web development, open source, GitHub]
+tags: [jekyll, web development, open source, github]
 comments: true
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)**, a responsive Jekyll theme focused on great typography for text heavy sites. 
+Jekyll is pretty rad and figured releasing an older version of [my site](http://mademistakes.com) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)**, a responsive Jekyll theme focused on great typography for text heavy sites. 
 
-## Minimal Mistakes features:
+<i class="fa fa-info-circle"></i> **Update:** Minimal Mistakes makes use of Sass and data files as part of Jekyll 2.x. Updating your site's look and feel just got easier!
+{: .notice}
+
+{% include toc.html %}
+
+## Features
 
 * Responsive layouts. Looks good on mobile, tablets, and desktop devices.
 * Full compatibility with [GitHub Pages](http://pages.github.com/).
@@ -25,47 +30,49 @@ Jekyll is pretty rad and figured releasing a cleaned up version of [my site](htt
 * Support for large images to call out your favorite posts.
 * Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
 * Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/minimal-mistakes/articles/code-highlighting-post/).
-* Grunt and Rake tasks for easier site development.
 
 <figure>
-	<a href="http://mmistakes.github.io/minimal-mistakes" onClick="_gaq.push(['_trackEvent', 'Link', 'Minimal Mistakes - Theme Demo']);"><img src="{{ site.url }}/images/mm-theme-post-750.jpg" alt="Screenshot of Minimal Mistakes theme"></a>
-	<figcaption>The post template in action.</figcaption>
+	<a href="https://mmistakes.github.io/minimal-mistakes/"><img src="{{ site.url }}/images/mm-theme-post-750.jpg" alt="Screenshot of Minimal Mistakes theme"></a>
 </figure>
 
-<div markdown="0"><a href="http://mmistakes.github.io/minimal-mistakes" onClick="_gaq.push(['_trackEvent', 'Link', 'Minimal Mistakes - Theme Demo']);" class="btn">Demo the Theme</a></div>
+<div markdown="0">
+  <a href="https://mmistakes.github.io/minimal-mistakes/" class="btn">Demo the Theme</a>
+  <a href="https://github.com/mmistakes/minimal-mistakes" class="btn">Install the Theme</a>
+</div>
 
-## Basic Setup
+## Installation
 
-1. [Install Bundler](http://bundler.io) `gem install bundler` and then install [Jekyll](http://jekyllrb.com) and all dependencies `bundle install`.
-2. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
-3. Clone the repo you just forked and rename it.
-4. Edit `_config.yml` to personalize your site.
-5. Check out the sample posts in `_posts` to see examples for pulling in large feature images, assigning categories and tags, and other YAML data.
+Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 2.x. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
 
-<i class="fa fa-star"></i> **ProTip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site.
+**If you are creating a new Jekyll site using Minimal Mistakes follow these steps:**
+
+1. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
+2. Clone the repo you just forked and rename it.
+3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
+4. Update `config.yml`, add navigation, and replace demo posts and pages with your own. [Full details here](https://mmistakes.github.io/minimal-mistakes/theme-setup/).
+
+**If you want to use Minimal Mistakes with an existing Jekyll site follow these steps:**
+
+1. [Download Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/archive/master.zip) and unzip.
+2. Rename `minimal-mistakes-master` to something meaningful ie: `new-site`
+3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
+4. Remove demo posts and pages add replace with your own posts, pages, and any other content you want to move over.
+5. Update posts and pages YAML to match variables used by Minimal Mistakes.
+6. Update `config.yml` and add navigation links. [Full details here](https://mmistakes.github.io/minimal-mistakes/theme-setup/). 
+
+<i class="fa fa-star"></i> **ProTip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
 {: .notice}
 
 ---
 
-## More Theme Setup Goodness
+## Usage
 
-To learn more about how customize this theme, include feature images in posts, use the Grunt build scripts, and some other junk, [read up here](http://mmistakes.github.io/minimal-mistakes-theme/theme-setup/).
-
----
+To learn more about how to customize this theme, include feature images in posts, modify the look and feel, create new posts, and some other junk, [read up here](https://mmistakes.github.io/minimal-mistakes/theme-setup/).
 
 ## Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@mmistakes](http://twitter.com/mmistakes) or [file a GitHub Issue](https://github.com/mmistakes/minima-mistakes/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
+Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@mmistakes](http://twitter.com/mmistakes) or [file a GitHub issue](https://github.com/mmistakes/minimal-mistakes/issues/new). And if you make something cool with this theme feel free to let me know.
 
 ## License
 
-This theme is free and open source software, distributed under the [GNU General Public License](http://mmistakes.github.io/minimal-mistakes/LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
-
-**Like this theme?** I just released another one for Jekyll, with a sweet animated drop down menu, social sharing plugins, and a Grunt build script for theme development. I'm calling it HPSTER Theme and you can [learn more about it here]({{ site.url }}/articles/hpstr-jekyll-theme/).
-{: .notice}
-
----
-
-{% include support.html %}
+This theme is free and open source software, distributed under the [MIT License]({{ site.url }}/LICENSE). So feel free to modify it however you'd like without linking back to me or including a disclaimer.

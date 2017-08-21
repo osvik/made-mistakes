@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Long locks of curl"
-description: "PaperFaces portrait of @cuteasebutton drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @cuteasebutton drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-cuteasebutton-instagram-lg.jpg
   thumb: paperfaces-cuteasebutton-instagram-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@cuteasebutton](http://instagram.com/cuteasebutton). I really enjoy drawing long hair, couldn't you tell?

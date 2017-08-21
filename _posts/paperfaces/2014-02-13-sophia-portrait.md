@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "The littlest panda"
-description: "PaperFaces portrait of Sophia drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Sophia drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-sophia-lg.jpg
   thumb: paperfaces-sophia-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait commission of baby Sophia.

@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Cousin It"
-description: "PaperFaces portrait of a Marie A. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of a Marie A. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-marie-a-lg.jpg
   thumb: paperfaces-marie-a-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy]
+tags: [portrait, illustration, paper by 53, sktchy]
 ---
 
 PaperFaces portrait of a [Marie A.](http://sktchy.com/7uxxdC) inspired by a photograph on Sktchy.

@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Weather appropriate"
-description: "PaperFaces portrait of @janten drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @janten drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-janten-twitter-lg.jpg
   thumb: paperfaces-janten-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, black and white]
+tags: [portrait, illustration, paper by 53, black and white, beard]
 ---
 
 PaperFaces portrait of [@janten](http://twitter.com/janten).

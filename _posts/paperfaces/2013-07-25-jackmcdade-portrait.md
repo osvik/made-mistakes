@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Blurry foliage portrait"
-description: "PaperFaces portrait of @jackmcdade drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @jackmcdade drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-jackmcdade-twitter-lg.jpg
   thumb: paperfaces-jackmcdade-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, bokeh]
+tags: [portrait, illustration, paper by 53, bokeh]
 ---
 
 PaperFaces portrait of [@jackmcdade](http://twitter.com/jackmcdade). Went all choppy with my watercolor strokes in the background to simulate a bokeh effect and add dimension to the composition.
@@ -26,5 +26,5 @@ PaperFaces portrait of [@jackmcdade](http://twitter.com/jackmcdade). Went all ch
 
 <figure>
 	<a href="{{ site.url }}/images/paperfaces-jackmcdade-process-4-lg.jpg"><img src="{{ site.url }}/images/paperfaces-jackmcdade-process-4-600.jpg" alt="Work in process screenshot"></a>
-	<figcaption>Here comes the face...</figcaption>
+	<figcaption>Here comes the face…</figcaption>
 </figure>

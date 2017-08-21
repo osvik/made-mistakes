@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Triforce of Courage"
-description: "PaperFaces portrait of @ninoMH drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @ninoMH drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-ninomh-2-twitter-lg.jpg
   thumb: paperfaces-ninomh-2-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 They say you never forget your first *Triforce of Courage*. PaperFaces portrait commission of <a href="http://twitter.com/ninoMH">@ninoMH</a>.

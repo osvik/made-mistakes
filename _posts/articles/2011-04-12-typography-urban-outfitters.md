@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Typography No No's with Urban Outfitters"
-description: "The typography in Urban Outfitters latest catalog has some serious readability issues."
+excerpt: "The typography in Urban Outfitters latest catalog has some serious readability issues."
 category: articles
 modified: 2013-04-26
 image: 
   feature: UO11-spring-featured.jpg
-  small: UO11-spring-340x100.jpg
+  teaser: UO-spring11-teaser.jpg
   thumb: UO11-spring-thumb.jpg
 tags: [catalog, design, typography, critique, readability]
 ---
@@ -20,7 +20,7 @@ I think it is very clear that the April 2011 *Urban Outfitters* catalog was more
 
 ## Violators, Mount Up
 
-Inside front cover starts off with this gem. I absolutely hate when an element in the background violates a block of type in the foreground. Now sometimes this can serve a purpose, but here I can't fathom one single reason why you'd place a paragraph on top of a light stand or whatever the hell that is. I just can't help wanting to move both paragraphs to the right three inches and neatly tuck them under the protruding umbrella...
+Inside front cover starts off with this gem. I absolutely hate when an element in the background violates a block of type in the foreground. Now sometimes this can serve a purpose, but here I can't fathom one single reason why you'd place a paragraph on top of a light stand or whatever the hell that is. I just can't help wanting to move both paragraphs to the right three inches and neatly tuck them under the protruding umbrella…
 
 ## I Hate Full Justified Type
 

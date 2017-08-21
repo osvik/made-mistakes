@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Please excuse the face, sometimes I draw them"
-description: "PaperFaces portrait of @benbrignell drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @benbrignell drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-benbrignell-twitter-lg.jpg
   thumb: paperfaces-benbrignell-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, beard]
+tags: [portrait, illustration, paper by 53, beard]
 ---
 
 PaperFaces portrait of [@benbrignell](http://twitter.com/benbrignell).

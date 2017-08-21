@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Look at this view!"
-description: "PaperFaces portrait of @sakkaden drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @sakkaden drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-sakkaden-twitter-lg.jpg
   thumb: paperfaces-sakkaden-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait commissioned by <a href="http://twitter.com/sakkaden">@sakkaden</a>.

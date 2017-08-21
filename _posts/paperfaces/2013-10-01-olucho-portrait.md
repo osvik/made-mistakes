@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Pondering"
-description: "PaperFaces portrait of @olucho drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @olucho drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-olucho-twitter-lg.jpg
   thumb: paperfaces-olucho-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces avatar portrait of <a href="http://twitter.com/olucho">@olucho</a>.

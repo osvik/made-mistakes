@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: article
 title: "Almost the Film Version of Fatal Frame"
-description: "A Korean horror flick that reminded me of the Fatal Frame video game franchise."
+excerpt: "A Korean horror flick that reminded me of the Fatal Frame video game franchise."
 category: articles
 image: 
-  feature: tale-two-sisters-floor-blood-xl.jpg
-  small: tale-two-sisters-floor-blood-340x100.jpg
+  feature: tale-two-sisters-floor-blood-feature.jpg
+  teaser: tale-two-sisters-teaser.jpg
   thumb: two-sisters-340x340.jpg
   credit: DVD screengrab from The Movie Database
   creditlink: http://www.themoviedb.org/movie/4552-janghwa-hongryeon
-tags: [foreign, Korean, horror, film, review]
+tags: [foreign, korean, horror, film, review]
 ---
 
 Netflix has been on a roll lately with the Korean films it's suggested I watch. First it was Chan-wook Park's three revenge flicks ([*Old Boy*][old-boy], [*Sympathy for Mr Vengeance*][mr-vengeance], and [*Lady Vengeance*][lady-vengeance]) and now [*A Tale of Two Sisters*][two-sisters].

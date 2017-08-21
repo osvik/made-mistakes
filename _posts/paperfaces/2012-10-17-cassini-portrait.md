@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Solar flares and blue lighting"
-description: "PaperFaces portrait of @cassini_ drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @cassini_ drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-cassini-twitter-lg.jpg
   thumb: paperfaces-cassini-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@cassini_](http://twitter.com/cassini_).

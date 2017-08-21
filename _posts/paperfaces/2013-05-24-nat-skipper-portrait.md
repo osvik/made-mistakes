@@ -1,18 +1,14 @@
 ---
-layout: work
+layout: media
 title: "365th PaperFaces portrait"
-description: "PaperFaces portrait of @Nat_Skipper drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @Nat_Skipper drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-nat-skipper-twitter-lg.jpg
   thumb: paperfaces-nat-skipper-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
-Halfway to my goal... PaperFaces portrait of [@Nat_Skipper](http://twitter.com/Nat_Skipper).
+Halfway to my goal… PaperFaces portrait of [@Nat_Skipper](http://twitter.com/Nat_Skipper).
 
 {% include paperfaces-boilerplate.html %}

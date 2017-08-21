@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Weathered wood"
-description: "PaperFaces portrait of Kalina B. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Kalina B. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-kalina-b-lg.jpg
   thumb: paperfaces-kalina-b-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy, texture]
+tags: [portrait, illustration, paper by 53, sktchy, texture]
 ---
 
 PaperFaces portrait of [Kalina B.](http://sktchy.com/142Fr) inspired by Sktchy.

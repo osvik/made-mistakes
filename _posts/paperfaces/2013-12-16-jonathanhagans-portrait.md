@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Winter faces"
-description: "PaperFaces portrait commission drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait commission drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-jonathanhagans-twitter-lg.jpg
   thumb: paperfaces-jonathanhagans-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 I don't often draw faces, but with the right photo reference I sometimes attempt it. 

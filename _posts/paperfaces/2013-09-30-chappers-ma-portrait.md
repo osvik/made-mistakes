@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Basement dweller"
-description: "PaperFaces portrait of @chappers_ma drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @chappers_ma drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-chappers-ma-twitter-lg.jpg
   thumb: paperfaces-chappers-ma-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, texture]
+tags: [portrait, illustration, paper by 53, texture, beard]
 ---
 
 PaperFaces avatar portrait of <a href="http://twitter.com/chappers_ma">@chappers_ma</a>.

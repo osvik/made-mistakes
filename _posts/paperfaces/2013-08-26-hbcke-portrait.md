@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "War paint"
-description: "PaperFaces portrait of @hbcke drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @hbcke drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-hbcke-twitter-lg.jpg
   thumb: paperfaces-hbcke-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, black and white]
+tags: [portrait, illustration, paper by 53, black and white]
 ---
 
 PaperFaces portrait of [@hbcke](http://twitter.com/hbcke).

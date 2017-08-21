@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Rugged hat in sunlight"
-description: "PaperFaces portrait of Susi drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Susi drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-susi-lg.jpg
   thumb: paperfaces-susi-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Blend]
+tags: [portrait, illustration, paper by 53, blend]
 ---
 
 PaperFaces portrait commission of Susi.

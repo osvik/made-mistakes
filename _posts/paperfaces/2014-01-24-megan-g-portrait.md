@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Blizzard protection"
-description: "PaperFaces portrait of Megan G. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Megan G. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-megan-g-lg.jpg
   thumb: paperfaces-megan-g-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy, Blend]
+tags: [portrait, illustration, paper by 53, sktchy, blend]
 ---
 
 Another winter scene with a slight smudge to the background of trees to add depth. PaperFaces portrait of [Megan G.](http://sktchy.com/ZRLqgC) inspired by Sktchy.

@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: article
 title: "365 Days of Drawing Faces"
-description: "Year one of my 365 day portrait project may be over, but I'm just getting started."
+excerpt: "Year one of my 365 day portrait project may be over, but I'm just getting started."
 image: 
   feature: paperfaces-476-portraits-lg.jpg
+  teaser: paperfaces-476-portraits-teaser.jpg
   thumb: paperfaces-476-portraits-thumb.jpg
 category: articles
-tags: [drawing, illustration, 365 project, Paper by 53, iPad]
+tags: [drawing, illustration, 365 project, paper by 53, ipad]
 comments: true
 ---
 
@@ -15,8 +16,6 @@ Today my 365 project titled [**PaperFaces**]({{ site.url }}/paperfaces/) turns o
 I honestly can't believe I've been drawing strangers for 365 days straight. I was half joking when I posted this and had no idea it would take off in the way that it did.
 
 <blockquote class="twitter-tweet"><p>Retweet and I'll draw your profile picture using Paper on my iPad <a href="https://twitter.com/search/%23MadeWithPaper">#MadeWithPaper</a> <a href="http://t.co/5oqH4bJt" title="http://twitter.com/mmistakes/status/240601384477659136/photo/1">twitter.com/mmistakes/stat…</a></p>&#8212; Michael Rose (@mmistakes) <a href="https://twitter.com/mmistakes/status/240601384477659136" data-datetime="2012-08-29T00:06:55+00:00">August 29, 2012</a></blockquote>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 ### Big Ups and Stuff
 
@@ -33,4 +32,4 @@ I honestly can't believe I've been drawing strangers for 365 days straight. I wa
 	<figcaption>Some of my favorite portraits I've illustrated.</figcaption>
 </figure>
 
-Here's to another fun year of blank faces. And to the thousands of you still waiting for portraits... I'm working on them, really I am.
+Here's to another fun year of blank faces. And to the thousands of you still waiting for portraits… I'm working on them, really I am.

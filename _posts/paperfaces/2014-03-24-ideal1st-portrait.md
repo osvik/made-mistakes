@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Over the shoulder"
-description: "PaperFaces portrait of @ideal1st drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @ideal1st drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-ideal1st-twitter-lg.jpg
   thumb: paperfaces-ideal1st-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, black and white, Blend]
+tags: [portrait, illustration, paper by 53, black and white, blend]
 ---
 
 PaperFaces portrait of [@ideal1st](http://twitter.com/ideal1st).

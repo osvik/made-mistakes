@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Maps and earbuds"
-description: "PaperFaces portrait of @Dubble_C drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @Dubble_C drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-dubble-c-twitter-lg.jpg
   thumb: paperfaces-dubble-c-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53, beard]
 ---
 
 PaperFaces avatar portrait of <a href="http://twitter.com/Dubble_C">@Dubble_C</a>.

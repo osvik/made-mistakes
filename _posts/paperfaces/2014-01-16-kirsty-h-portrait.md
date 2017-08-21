@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Semi erased"
-description: "PaperFaces portrait of Kirsty H. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Kirsty H. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-kirsty-h-lg.jpg
   thumb: paperfaces-kirsty-h-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy]
+tags: [portrait, illustration, paper by 53, sktchy]
 ---
 
 PaperFaces portrait of [Kirsty H.](http://sktchy.com/A73olc) inspired by Sktchy.

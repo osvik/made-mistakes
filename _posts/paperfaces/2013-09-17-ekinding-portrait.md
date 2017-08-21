@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Spooky kids"
-description: "PaperFaces portrait of @ekinding drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @ekinding drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-ekinding-twitter-lg.jpg
   thumb: paperfaces-ekinding-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@ekinding](http://twitter.com/ekinding). Had a lot of fun with this creeptacular illustration.

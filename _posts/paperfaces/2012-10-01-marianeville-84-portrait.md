@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Bokeh of light colors"
-description: "PaperFaces portrait of @marianeville_84 drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @marianeville_84 drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-marianeville-84-twitter-lg.jpg
   thumb: paperfaces-marianeville-84-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@marianeville_84](http://twitter.com/marianeville_84).

@@ -1,21 +1,20 @@
 ---
-layout: post
-title: "Mastering Paper by 53: Drawing Trees and Grass"
-description: "Learn techniques to draw trees, green grass, bushes, and other foliage using the iPad app Paper by 53."
-modified: 2014-01-10
+layout: article
+title: "Mastering Paper by FiftyThree: Drawing Trees and Grass"
+excerpt: "Techniques to draw trees, green grass, bushes, and other foliage using the iPad app Paper by FiftyThree."
+modified: 2014-04-10
 image: 
   feature: paper-53-trees-guide-feature.jpg
+  teaser: paper-53-trees-guide-teaser.jpg
   thumb: paper-53-trees-guide-thumb.jpg
 category: mastering-paper
-tags: [Paper by 53, tutorial, drawing, painting, iPad, trees, grass]
-series: mastering-paper
+tags: [paper by 53, tutorial, drawing, painting, trees, grass, ipad]
 comments: true
 ---
 
 Sorry for the delay in publishing the next installment of my **Mastering Paper Guide** --- between the twins, my job, and trying to launch [Relic Scout]({{ site.url }}{% post_url /work/2013-08-27-relic-scout %}), I've had my hands full this summer. But enough of all the excuses, let's get right into it ok?
 
-* Table of Contents
-{:toc}
+{% include toc.html %}
 
 ## Drawing Trees
 
@@ -29,7 +28,7 @@ When I draw trees I select the watercolor brush and jump right in, using one con
 <figure class="half">
 	<img src="{{ site.url }}/images/paper-53-tree-green-layered.jpg" alt="screenshot of leaf color layered">
 	<img src="{{ site.url }}/images/paper-53-tree-green-one-layer.jpg" alt="screenshot of leaf color single coat">
-	<figcaption>The layered approach vs. a single coat, which one looks better to you?</figcaption>
+	<figcaption>Building up a color with multiple layers usually yields better results than one dark glaze.</figcaption>
 </figure>
 
 <i class="fa fa-star"></i> **ProTip:** Remember the watercolor brush is translucent and no matter what color you pick it won't match without a few coats.
@@ -47,13 +46,16 @@ Once you're happy with the general shape of the tree, it's time to add some shad
 
 The primary goal here is to give the illusion of leaf clusters and indicate where the branches and trunk flow. A [Pogo Connect Smart Pen]({{ site.url }}{% post_url /articles/2013-07-08-pogo-connect-smart-pen %}) can help immensely to paint branches of varying widths --- an ability no other stylus supports when used with Paper by 53.
 
-![screenshot of leaf texture strokes]({{ site.url }}/images/paper-53-tree-texture-strokes.jpg)
+<figure>
+  <img src="{{ site.url }}/images/paper-53-tree-texture-strokes.jpg" alt="screenshot of leaf texture strokes">
+  <figcaption>A fast way to create leaves is to make short quick strokes with the watercolor brush.</figcaption>
+</figure>
 
 Now it's time to start adding detail to the tree with highlights. Using a reference photo can help determine a good highlight color, but if you don't have one check below for my favorite mixes. Stay away from colors that are too white --- you want a color that is still in the family of your base color, just warmed and lightened.
 
 <div class="notice">
   <img src="{{ site.url }}/images/paper-53-leaf-highlight-swatch.png" alt="screenshot of yellow orange highlight color" class="image-right">
-  <p><i class="fa fa-star"></i> <strong>ProTip:</strong> If you&#8217;re having trouble mixing a highlight I like to start with a green from the leaf&#8217;s base, and add yellow. Yellow with orange mixed in also makes for a nice leaf highlight &#8212; note the example on the left.</p>
+  <span><i class="fa fa-star"></i> <strong>ProTip:</strong> If you&#8217;re having trouble mixing a highlight I like to start with a green from the leaf&#8217;s base, and add yellow. Yellow with orange mixed in also makes for a nice leaf highlight &#8212; note the example on the left.</span>
 </div>
 
 With our highlight color mixed, select the pencil tool and start lightly sketching small "scratchy" marks over the base coat. The more times you go over a pencil stroke, the more intense the color will get. Try not to overwork one area with the pencil, the key is to keep everything harmonious.
@@ -61,7 +63,10 @@ With our highlight color mixed, select the pencil tool and start lightly sketchi
 <i class="fa fa-star"></i> **ProTip:** Apply highlight strokes on dark shadows to define individual leaves or groupings. A well placed highlight can go a long way in adding realism to your art.
 {: .notice}
 
-![screenshot of highlight strokes]({{ site.url }}/images/paper-53-leaf-highlight-strokes.jpg)
+<figure>
+  <img src="{{ site.url }}/images/paper-53-leaf-highlight-strokes.jpg" alt="screenshot of highlight strokes">
+  <figcaption>For a more textured look use the pencil tool instead of the fountain or ink pens.</figcaption>
+</figure>
 
 At this point your tree is pretty much done --- it really depends on how much detail you think it needs. If this tree is the primary subject of your composition then you probably want to work it some more and sharpen the edges. If it's just background filler I'd suggest keeping it soft and blurry so it doesn't compete with whatever you're placing in the foreground.
 
@@ -81,7 +86,10 @@ Lastly, fill the pencil with a color that matches the background and refine the 
 <i class="fa fa-star"></i> **ProTip:** This technique works great to "erase" any spots in the middle of the tree where the sky might be showing through leaves.
 {: .notice}
 
-![screenshot of refine tree edges with background color]({{ site.url }}/images/paper-53-refine-tree-edges.jpg)
+<figure>
+  <img src="{{ site.url }}/images/paper-53-refine-tree-edges.jpg" alt="screenshot of refine tree edges with background color">
+  <figcaption>Erasing parts of the tree by using a pencil filled with a color that closely matches the background.</figcaption>
+</figure>
 
 ---
 
@@ -105,13 +113,20 @@ Grass cut short is fairly painless to draw. Making small subtle marks with the p
 <i class="fa fa-star"></i> **ProTip:** To feather out each shard of grass, move slow as you begin a stroke and faster as you finish. For those using a Pogo Connect Smart Pen, press hard at the start and lighten up as you finish.
 {: .notice}
 
-![screenshot grass stroke feathered]({{ site.url }}/images/paper-53-long-grass-feathered.jpg)
+<figure>
+  <img src="{{ site.url }}/images/paper-53-long-grass-feathered.jpg" alt="screenshot grass stroke feathered">
+  <figcaption>You can create a various types of grass by varying their length and direction.</figcaption>
+</figure>
 
 Dark green pencil strokes from the grass's base up to the middle can be used to add shadow to longer grass. For shorter strands, well placed marks below highlight strokes will add just the right amount of depth.
 
-![screenshot long grass shadows vs. short grass shadows]({{ site.url }}/images/paper-53-long-grass-shadows.jpg)
+<figure>
+  <img src="{{ site.url }}/images/paper-53-long-grass-shadows.jpg" alt="screenshot long grass shadows vs. short grass shadows">
+  <figcaption>A few well placed shadows strokes to add depth to the grass.</figcaption>
+</figure>
 
 One final tip for creating depth is to paint over everything with light gray or tan colors. Grass that is furthest back receives more coats of watercolor --- while grass that is in the foreground gets less.
+
 ![screenshot of applying tan shadows to grass]({{ site.url }}/images/paper-53-grass-tan-shadows.jpg)
 
 <i class="fa fa-star"></i> **ProTip:** A general rule of thumb is to mix blue/gray to your background colors, and warm them up as you move forward. A couple of well placed pencil strokes using this principle can enhance a composition's depth quite effectively.
@@ -123,7 +138,7 @@ One final tip for creating depth is to paint over everything with light gray or 
 
 Using all of these techniques on their own or in concert, I was able to create lush backgrounds for many of the portraits in my [PaperFaces Project]({{ site.url }}/paperfaces/). Below are a few tree and grass examples to show what is possible just by varying the color and composition.
 
-<ul class="recent-grid">
+<ul class="th-grid">
   <li><a href="{{ site.url }}{% post_url /paperfaces/2013-08-19-isellsoap-portrait %}"><img src="{{ site.url }}/images/paperfaces-isellsoap-twitter-150.jpg" alt="thumb" /></a></li>
   <li><a href="{{ site.url }}{% post_url /paperfaces/2013-08-02-thatmiddleway-portrait %}"><img src="{{ site.url }}/images/paperfaces-thatmiddleway-twitter-150.jpg" alt="thumb" /></a></li>
   <li><a href="{{ site.url }}{% post_url /paperfaces/2013-07-11-lmichelleinc-portrait %}"><img src="{{ site.url }}/images/paperfaces-lmichelleinc-twitter-150.jpg" alt="thumb" /></a></li>
@@ -137,6 +152,4 @@ Using all of these techniques on their own or in concert, I was able to create l
 ## Moving Along
 {:.no_toc}
 
-In the next article in this series I'll take you through the techniques and steps I use to paint a blue skies, fluffy clouds, and sunsets. All three are the perfect compliments to a well drawn tree...
-
-{% include support.html %}
+In the next article in this series I'll take you through the techniques and steps I use to paint a blue skies, fluffy clouds, and sunsets. All three are the perfect compliments to a well drawn tree…

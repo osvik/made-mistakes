@@ -1,18 +1,13 @@
 ---
-layout: work
+layout: media
 title: "PaperFaces portrait of Darth Vader"
-description: "PaperFaces portrait of Darth Vader drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Darth Vader drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-darth-vader-lg.jpg
+  teaser: paperfaces-darth-vader-teaser.jpg
   thumb: paperfaces-darth-vader-150.jpg
 category: paperfaces
-tags: 
-- Star Wars
-- PaperFaces
-- portrait
-- illustration
-- Paper by 53
-
+tags: [star wars, portrait, illustration, paper by 53]
 ---
 
 May the 4th be with you!

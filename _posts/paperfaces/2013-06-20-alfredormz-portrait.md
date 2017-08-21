@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "On the gray everything is enhanced"
-description: "PaperFaces portrait of @alfredormz drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @alfredormz drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-alfredormz-twitter-lg.jpg
   thumb: paperfaces-alfredormz-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53]
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@alfredormz](http://twitter.com/alfredormz).

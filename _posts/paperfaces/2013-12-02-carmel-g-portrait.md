@@ -1,15 +1,15 @@
 ---
-layout: work
+layout: media
 title: "Fire tipped hair"
-description: "PaperFaces portrait of Carmel G. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Carmel G. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-carmel-g-lg.jpg
   thumb: paperfaces-carmel-g-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Blend, Sktchy]
+tags: [portrait, illustration, paper by 53, blend, sktchy]
 ---
 
-PaperFaces portrait of <a href="http://sktchy.com/uViYnH" target="_blank">Carmel G.</a>
+PaperFaces portrait of <a href="http://sktchy.com/uViYnH">Carmel G.</a>
 
 {% include paperfaces-boilerplate-3.html %}
 

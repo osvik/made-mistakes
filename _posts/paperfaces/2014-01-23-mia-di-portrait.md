@@ -1,12 +1,12 @@
 ---
-layout: work
-title: "Blizzard protection"
-description: "PaperFaces portrait of Mia Di D. drawn with Paper by 53 on an iPad."
+layout: media
+title: "Looking Soft in Her Blizzard Protection"
+excerpt: "PaperFaces portrait of Mia Di D. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-mia-di-lg.jpg
   thumb: paperfaces-mia-di-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy]
+tags: [portrait, illustration, paper by 53, sktchy]
 ---
 
 Cooler tones for the eyeshadow and a hint of pink to warm up the cheeks. PaperFaces portrait of [Mia Di D.](http://sktchy.com/BBBOaH) inspired by Sktchy.

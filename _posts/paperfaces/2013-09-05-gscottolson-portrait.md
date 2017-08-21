@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Gray values in a four inch square"
-description: "PaperFaces portrait of @gscottolson drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @gscottolson drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-gscottolson-twitter-lg.jpg
   thumb: paperfaces-gscottolson-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, black and white]
+tags: [portrait, illustration, paper by 53, black and white, beard]
 ---
 
 PaperFaces portrait of FiftyThree maker, [@gscottolson](http://twitter.com/gscottolson).

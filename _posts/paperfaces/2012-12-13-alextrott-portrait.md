@@ -1,16 +1,12 @@
 ---
-layout: work
+layout: media
 title: "Sitting in the dark wearing a hoodie"
-description: "PaperFaces portrait of @alextrott_ drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @alextrott_ drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-alextrott-twitter-lg.jpg
   thumb: paperfaces-alextrott-twitter-150.jpg
 category: paperfaces
-tags: 
-- portrait
-- illustration
-- Paper by 53
-
+tags: [portrait, illustration, paper by 53]
 ---
 
 PaperFaces portrait of [@alextrott_](http://twitter.com/alextrott_).

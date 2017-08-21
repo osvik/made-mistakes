@@ -1,12 +1,13 @@
 ---
-layout: work
+layout: media
 title: "Pixelated beard"
-description: "PaperFaces portrait of @mattfieldy drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of @mattfieldy drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-mattfieldy-twitter-lg.jpg
+  teaser: paperfaces-mattfieldy-twitter-teaser.jpg
   thumb: paperfaces-mattfieldy-twitter-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, 8bit]
+tags: [portrait, illustration, paper by 53, 8bit, beard]
 ---
 
 PaperFaces portrait of [@mattfieldy](http://twitter.com/mattfieldy).

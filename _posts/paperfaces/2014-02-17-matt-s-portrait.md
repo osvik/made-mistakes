@@ -1,12 +1,12 @@
 ---
-layout: work
+layout: media
 title: "An awkward stare"
-description: "PaperFaces portrait of Matt S. drawn with Paper by 53 on an iPad."
+excerpt: "PaperFaces portrait of Matt S. drawn with Paper by 53 on an iPad."
 image: 
   feature: paperfaces-matt-s-lg.jpg
   thumb: paperfaces-matt-s-150.jpg
 category: paperfaces
-tags: [portrait, illustration, Paper by 53, Sktchy, black and white]
+tags: [portrait, illustration, paper by 53, sktchy, black and white]
 ---
 
 PaperFaces portrait of [Matt S.](http://sktchy.com/4SI2jH) inspired by Sktchy.
